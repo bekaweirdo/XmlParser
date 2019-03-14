@@ -41,7 +41,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
     private fun downloadXml(urlPath: String?): String {
         val xmlResult = StringBuilder()
 
